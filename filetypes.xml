@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".mp3" type="ARCHIVE" />
+      <mapping ext="webp" type="Image" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="raw" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="mp3" type="XML" />
+      <removed_mapping ext="mp3" approved="true" type="GitIgnore file" />
+      <removed_mapping pattern=".mp3" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
